@@ -7,7 +7,7 @@ A basic React application for a travel destination wishlist.
 - Add new destinations
 - Remove a destination
 - Mark destinations as visited
-- Filter destinations by all, visited, and non-visited
+- Filter destinations by all, visited and non-visited
 - Responsive design
 - Data persistence using localStorage
 
