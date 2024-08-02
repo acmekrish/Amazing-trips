@@ -12,7 +12,7 @@ A basic React application for a travel destination wishlist.
 - Data persistence using localStorage
 
 ## Usage
-- Visit the deployed web app [here](DEPLOYMENT_LINK)
+- Visit the deployed web app https://amazing-trips-pied.vercel.app/
 - Add, remove, and manage your travel destinations.
 
 ## Assumptions and Additional Features
