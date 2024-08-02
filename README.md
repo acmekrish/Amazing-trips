@@ -13,7 +13,7 @@ A basic React application for a travel destination wishlist.
 
 ## Usage
 - Visit the deployed web app https://amazing-trips-pied.vercel.app/
-- Add, remove, and manage your travel destinations.
+- Add, remove and manage your travel destinations.
 
 ## Assumptions and Additional Features
 - Simple validation is added to ensure no empty fields are submitted.
