@@ -17,5 +17,5 @@ A basic React application for a travel destination wishlist.
 
 ## Assumptions and Additional Features
 - Simple validation is added to ensure no empty fields are submitted.
-- If given more time, I would add more advanced form validation, better styling, and potentially integrate a backend for persistent data storage.
+- If given more time, I would add more advanced form validation and better styling.
 
