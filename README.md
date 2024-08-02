@@ -1,4 +1,4 @@
-# Amazin Trips
+# Amazing Trips
 
 A basic React application for a travel destination wishlist.
 
